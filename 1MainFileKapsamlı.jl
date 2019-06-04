@@ -1,3 +1,4 @@
+### important: this code is for julia
 using Statistics
 using Printf
 path = "C:/13253813_omer_mustafa_oguzoglu/kod"
